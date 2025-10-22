@@ -33,9 +33,9 @@ Ayudar a las organizaciones a **tomar decisiones inteligentes basadas en datos**
 ---
 
 ### 📂 Algunos de mis proyectos
+- **🔹 Modelo predictivo de averias eléctricas:** modelo de predicción de averías eléctricas con R y comparación de desempeño entre modelos 
 - **🔹 Análisis de datos de embalses:** limpieza, visualización y detección de sequías con Python. 
 - **🔹 Validación de accesos a eventos (SQL):** implementación de lógica empresarial con funciones y tests. 
-- **🔹 Control presupuestario en Excel:** visualización de gastos por bloques con representación gráfica. 
 
 *(Pronto añadiré más proyectos de ciencia de datos y automatización.)*
 
