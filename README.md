@@ -29,7 +29,6 @@ Ayudar a las organizaciones a **tomar decisiones inteligentes basadas en datos**
 ### 🧰 Tecnologías y herramientas que uso
 - **Lenguajes:** R, Python, SQL 
 - **Análisis y visualización:** R, GGplot, Pandas, Matplotlib, MicroStrategy, Power BI, Tableau
-- **Gestión y automatización:** Git, GitHub, Trello, Google Workspace 
 
 ---
 
